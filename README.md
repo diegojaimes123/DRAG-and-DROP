@@ -21,7 +21,7 @@ Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en
 * carpeta js con un archivo que le da la funcionalidad a la pagina 
 * carpeta scss la cual contine un archivo scss con los diseños de la pagina 
 * img la cual contine las imagenes del poyeccto 
-* archivo index en html el cual es una imagen de huevos con animacion por corsor 
+* archivo index en html el cual es una imagen de el grupo de trabajo con animacion por corsor 
 
 ##  diseño y programacion de sofware. 
 
